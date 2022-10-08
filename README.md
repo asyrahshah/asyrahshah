@@ -1,7 +1,6 @@
 # asyrahshah-profile
 ### Hi there 👋, Asyrah here,
-#### I am Mechatronics Engineering Graduates who loves to code.
-![I am Mechatronics Engineering Graduates who loves to code.](https://miro.medium.com/max/1024/0*4ty0Adbdg4dsVBo3.png)
+![](https://miro.medium.com/max/1024/0*4ty0Adbdg4dsVBo3.png)
 
 I am a beginner in programming. However, I love to code especially using Python language. Stay tune with my simple to medium coding.
 
